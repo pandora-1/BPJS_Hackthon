@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.backgroundApp {
+  background-color: #004087;
+}
+
+.titleApp {
+  padding-top: 2em;
+  text-align: center;
+  color: rgb(252, 252, 252);
+}
